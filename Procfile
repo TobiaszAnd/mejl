@@ -1,2 +1,1 @@
-worker: maildev
-package: npm install -g maildev
+worker: node index.js
